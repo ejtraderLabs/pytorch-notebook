@@ -1,4 +1,4 @@
-FROM tverous/pytorch-notebook
+FROM ejtrader/pytorch-notebook
 
 ARG MY_UID
 ARG MY_GID

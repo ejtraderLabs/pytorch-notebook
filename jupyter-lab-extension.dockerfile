@@ -1,4 +1,4 @@
-FROM tverous/pytorch-notebook
+FROM ejtrader/pytorch-notebook
 
 # install jupyter lab extensions
 RUN pip install \
